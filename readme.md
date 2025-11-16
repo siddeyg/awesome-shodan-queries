@@ -18,6 +18,20 @@ The world and its devices are quickly becoming more connected through the shiny 
 ---
 
 
+## 📚 Documentation
+
+New to Shodan? Want to learn more? Check out our comprehensive guides:
+
+- **[INDEX.md](INDEX.md)** - Complete alphabetical index of all queries, organized by category, technique, and vulnerability
+- **[DOCUMENTATION.md](DOCUMENTATION.md)** - Comprehensive guide covering Shodan basics, query syntax, ethical guidelines, and best practices
+- **[USAGE_EXAMPLES.md](USAGE_EXAMPLES.md)** - Practical tutorials, command reference, Python API examples, and real-world scenarios
+- **[contributing.md](contributing.md)** - Guidelines for contributing new queries
+- **[claude.md](claude.md)** - Detailed codebase analysis and project context
+
+
+---
+
+
 ### **Table of Contents**
 
 - [Industrial Control Systems](#industrial-control-systems)
